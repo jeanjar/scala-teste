@@ -1,3 +1,10 @@
+Installation
+cd relou-uorde
+heroku create
+heroku config:set APP_SECRET=nonononono
+git push heroku master
+
+
 This is your new Play application
 =================================
 
